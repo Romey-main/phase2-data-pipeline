@@ -1,0 +1,5 @@
+yfinance
+vaderSentiment
+praw
+sec-edgar-downloader
+schedule
